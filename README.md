@@ -15,4 +15,4 @@
 6. La aplicacion utiliza el puerto 5000
 7. Copiar todo el contenido de la app y ejecutarla con `flask run`
 
-**NOTA:**Sera necesario un Redis para conservar la cuenta.
+**NOTA:** Sera necesario un Redis para conservar la cuenta.
